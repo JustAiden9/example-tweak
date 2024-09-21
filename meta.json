@@ -1,0 +1,5 @@
+{
+    "name": "Example Tweak",
+    "bundleID": "com.mojang.minecraftpe",
+    "type": "app"
+}
